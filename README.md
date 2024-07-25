@@ -1,7 +1,9 @@
 # Machine Learning (ML) Course
 
-This repository is a comprehensive course on machine learning, covering essential topics and their implementations. The course is designed to provide both theoretical understanding and practical skills in various machine learning algorithms and techniques.
+This repository is a comprehensive course on **machine learning**, covering essential topics and their implementations from **open classroom** and additionally examples. The course is designed to provide both theoretical understanding and practical skills in various machine learning algorithms and techniques. The content follows the **Stanford** course **CS229**, taught by *Andrew Ng*. We augment this course with implementations in Python.
+
 ## Outlines
+----------- 
 
 ## Regression:
 - **Linear Regression**: modeling  relationship between a dependent variable and one independent variable by fitting a linear equation to the observed data.
@@ -11,9 +13,15 @@ This repository is a comprehensive course on machine learning, covering essentia
 ## Classification:
 - **Logistic Regression**: A classification algorithm that models the probability of a binary outcome based on one or more predictor variables using a logistic function.
 - **Support Vector Classifier**: modeling the relationship between input features and continuous target values by finding the optimal hyperplane that minimizes prediction errors.
-- **Feature Extraction**: Methods for detecting and extracting features from images, such as LBP, SIFT, ORB, HOG and others.
-- **Feature Based Learning**: Methods for training various ML algorithm to learn patterns through features.
+- **Feature Descriptor**: Methods for detecting and extracting features from images, such as LBP, SIFT, ORB, HOG and others.
+- **Feature Based Learning (Annotation)**: Methods for training various ML algorithm to learn patterns through features.
 ## Artificial Neural Networks (ANN):
+#### Introducing Building Blocks of Artificial Neural Networks:
+- **Input Layers**: The initial layer that receives the input data.
+- **Hidden Layers**: Intermediate layers that process inputs through weighted connections.
+- **Output Layers**: The final layer that produces the network's predictions or outputs.
+- **Perceptron**: A single-layer neural network unit used for binary classification.
+- **Activation Functions**: Functions that introduce non-linearity, allowing the network to learn complex patterns.
 - Forward Pass: The process of calculating the output of a neural network by passing input data through each layer of the network.
 - Backward Pass (Back Propagation): The method of adjusting the weights of a neural network by propagating the error gradient backward through the network using the chain rule.
 - Shallow Networks: Neural networks with few layers, suitable for simpler problems but prone to underfitting.
