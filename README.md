@@ -52,7 +52,7 @@ Each lecture includes the following implementations:
 
 ## Usage
 
-Open the Jupyter Notebooks provided in the repository to explore different image processing techniques. Each notebook contains detailed explanations, code implementations, and example images to help you understand the concepts.
+Open the Jupyter Notebooks provided in the repository to explore different **Machine Learning** techniques. Each notebook contains detailed explanations, code implementations, and example images to help you understand the concepts.
 
 ## Contributor:
 
