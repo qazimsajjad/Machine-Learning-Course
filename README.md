@@ -1,7 +1,6 @@
 # Machine Learning (ML) Course
 
-This repository contains comprehensive resources, code implementations, and documentation for various digital image processing techniques and algorithms. It serves as a valuable resource for students, researchers, and professionals interested in the field of image processing.
-
+This repository is a comprehensive course on machine learning, covering essential topics and their implementations. The course is designed to provide both theoretical understanding and practical skills in various machine learning algorithms and techniques.
 ## Outlines
 
 ## Regression:
